@@ -1,0 +1,8 @@
+"Task_1": "Object-Oriented Programming (OOP) in Python"
+Task_2": "Selenium and BeautifulSoup"
+Task_3": "CS50 course"
+"Task_4": "Excel automation learning"
+"Task_5": "Pygame for fun"
+"Task_6": "Desktop automation Project"
+"Task_7": "Brush teeth everyday
+"Task_8": "Beggiener arduino project"
