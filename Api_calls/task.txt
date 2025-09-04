@@ -1,8 +1,23 @@
-"Task_1": "Object-Oriented Programming (OOP) in Python"
-Task_2": "Selenium and BeautifulSoup"
-Task_3": "CS50 course"
-"Task_4": "Excel automation learning"
-"Task_5": "Pygame for fun"
-"Task_6": "Desktop automation Project"
-"Task_7": "Brush teeth everyday
-"Task_8": "Beggiener arduino project"
+Task 1: Object-Oriented Programming (OOP) in Python
+Deadline: 10 Sept 2025 | Priority: High
+
+Task 2: Selenium and BeautifulSoup
+Deadline: 15 Sept 2025 | Priority: High
+
+Task 3: React Course
+Deadline: 01 Oct 2025 | Priority: Medium
+
+Task 4: Unity game development
+Deadline: 20 Sept 2025 | Priority: Medium
+
+Task 5: Pygame
+Deadline: 25 Sept 2025 | Priority: Low
+
+Task 6: Desktop Automation Project
+Deadline: 18 Sept 2025 | Priority: High
+
+Task 7: Brush Teeth Everyday
+Deadline: 31 Dec 2025 | Priority: Daily
+
+Task 8: Read Books
+Deadline: 22 Sept 2025 | Priority: Medium
